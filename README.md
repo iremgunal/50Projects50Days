@@ -13,3 +13,11 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  <br>
  
  ![progress-step](https://user-images.githubusercontent.com/101289998/214562236-2952a6c1-9e4f-4177-82a6-5cadd664d375.gif)
+
+<h5>Day 3:</h5>
+ <strong>Rotating Nav</strong>
+ <br>
+ 
+ ![rotate](https://user-images.githubusercontent.com/101289998/215091311-23c6cdb7-1226-4518-963e-405c375850a9.gif)
+
+<br>
