@@ -21,3 +21,11 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  ![rotate](https://user-images.githubusercontent.com/101289998/215091311-23c6cdb7-1226-4518-963e-405c375850a9.gif)
 
 <br>
+
+<h5>Day 4:</h5>
+ <strong>Hidden Search</strong>
+ <br>
+ 
+![hidden-search](https://user-images.githubusercontent.com/101289998/215263707-7f33e683-3346-4257-934d-0bca999dfcff.gif)
+
+<br>
