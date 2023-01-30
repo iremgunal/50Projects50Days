@@ -29,3 +29,11 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
 ![hidden-search](https://user-images.githubusercontent.com/101289998/215263707-7f33e683-3346-4257-934d-0bca999dfcff.gif)
 
 <br>
+
+<h5>Day 5:</h5>
+ <strong>Blurry Loading</strong>
+ <br> 
+ 
+ ![blurry-loading](https://user-images.githubusercontent.com/101289998/215319728-d012807a-e443-435d-a7b2-5b53e7cc9667.gif)
+ 
+<br>
