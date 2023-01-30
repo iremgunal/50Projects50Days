@@ -37,3 +37,12 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  ![blurry-loading](https://user-images.githubusercontent.com/101289998/215319728-d012807a-e443-435d-a7b2-5b53e7cc9667.gif)
  
 <br>
+
+<h5>Day 6:</h5>
+ <strong>Scroll Animation</strong>
+ <br> 
+ 
+ ![scroll](https://user-images.githubusercontent.com/101289998/215455278-9ebd66c8-ca61-4e75-a98a-c93f2473ae56.gif)
+ 
+<br>
+
