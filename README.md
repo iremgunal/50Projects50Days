@@ -46,3 +46,10 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  
 <br>
 
+<h5>Day 6:</h5>
+ <strong>Split Landing Page</strong>
+ <br> 
+ 
+ ![split](https://user-images.githubusercontent.com/101289998/215730625-5b9e2f21-6d40-41d9-9e5e-e280d3309963.gif)
+ 
+<br>
