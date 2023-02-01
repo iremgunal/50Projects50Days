@@ -54,7 +54,7 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  
 <br>
 
-<h5>Day 8:</h5>
+<h5>Day 8;</h5>
  <strong>Form Input Wave</strong>
  <br> 
  
