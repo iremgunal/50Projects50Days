@@ -61,3 +61,11 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
 ![wave](https://user-images.githubusercontent.com/101289998/216009018-5fdae482-8e02-450a-8704-52f01b414a79.gif)
 
 <br>
+
+<h5>Day 9:</h5>
+ <strong>Sounds Board</strong>
+ <br> 
+ 
+ ![sound](https://user-images.githubusercontent.com/101289998/216278775-7db76a60-3d05-4dd4-a640-a106b9f08a7d.gif)
+
+<br>
