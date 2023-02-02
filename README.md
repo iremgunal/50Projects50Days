@@ -46,10 +46,18 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  
 <br>
 
-<h5>Day 6:</h5>
+<h5>Day 7:</h5>
  <strong>Split Landing Page</strong>
  <br> 
  
  ![split](https://user-images.githubusercontent.com/101289998/215730625-5b9e2f21-6d40-41d9-9e5e-e280d3309963.gif)
  
+<br>
+
+<h5>Day 8;</h5>
+ <strong>Form Input Wave</strong>
+ <br> 
+ 
+![wave](https://user-images.githubusercontent.com/101289998/216009018-5fdae482-8e02-450a-8704-52f01b414a79.gif)
+
 <br>
