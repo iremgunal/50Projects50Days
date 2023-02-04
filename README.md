@@ -77,3 +77,11 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
 ![dad-jokes](https://user-images.githubusercontent.com/101289998/216572306-72e2a7c2-5469-404d-94bd-2254dccfb44b.gif)
 
 <br>
+
+<h5>Day 11:</h5>
+ <strong>Event KeyCodes</strong>
+ <br> 
+ 
+ ![keycode](https://user-images.githubusercontent.com/101289998/216779424-ac33b793-a1b5-46fc-a4ae-7cb02360c864.gif)
+
+<br>
