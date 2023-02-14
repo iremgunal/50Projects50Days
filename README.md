@@ -85,3 +85,10 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
  ![keycode](https://user-images.githubusercontent.com/101289998/216779424-ac33b793-a1b5-46fc-a4ae-7cb02360c864.gif)
 
 <br>
+<h5>Day 12:</h5>
+ <strong>FAQ Collapse</strong>
+ <br> 
+ 
+![faq](https://user-images.githubusercontent.com/101289998/217201861-446cc849-a52c-4291-9a8f-cc10e5759fa0.gif)
+
+<br>
