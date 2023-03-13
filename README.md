@@ -92,3 +92,10 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
 ![faq](https://user-images.githubusercontent.com/101289998/217201861-446cc849-a52c-4291-9a8f-cc10e5759fa0.gif)
 
 <br>
+<h5>Day 13:</h5>
+ <strong>Random Choice Picker</strong>
+ <br> 
+ 
+![random-picker](https://user-images.githubusercontent.com/101289998/218705593-fe6f32be-90a3-42d0-b6e6-7c5118bcb538.gif)
+
+<br>
