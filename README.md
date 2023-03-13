@@ -99,3 +99,12 @@ I am improving my HTML, CSS and Javascript skills with 50 mini projects in 50 da
 ![random-picker](https://user-images.githubusercontent.com/101289998/218705593-fe6f32be-90a3-42d0-b6e6-7c5118bcb538.gif)
 
 <br>
+
+<h5>Day 14:</h5>
+ <strong>Animated Nav</strong>
+ <br> 
+ 
+![İsimsiz video ‐ Clipchamp ile yapıldı](https://user-images.githubusercontent.com/101289998/224670635-f8c33d5d-f0ba-4781-a431-aa402310603c.gif)
+
+
+<br>
